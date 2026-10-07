@@ -1,2 +1,2 @@
 # SEIS732-data-product-
-A Ride-Share Fleet Manager or a Gig Economy Driver
+Business and economic activity: Ride-Share (Uber/Lyft) Dispatching
