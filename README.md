@@ -59,3 +59,6 @@ Risk 2: Metric Units and Definitions. The affectweather, worried, and Incentives
 
 8. First P1 decision 
 Determining the primary fact grain. I need to decide whether the analytical model should focus on absolute EV Registrations or EV Share (%) as the primary measure of success for state performance. 
+AI/tool accountability 
+
+Gemini: Assisted with structuring the P0 proposal headings, defining the target persona and actionable decision questions, framing the need-to-source gap analysis. 
