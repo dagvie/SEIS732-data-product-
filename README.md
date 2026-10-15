@@ -1,5 +1,5 @@
 # SEIS732-data-product-
-1.  Title 
+1.  Title: 
 State-Level EV Adoption and Infrastructure Benchmarking
 
 3. Audience and need 
